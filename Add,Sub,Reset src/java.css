@@ -1,0 +1,27 @@
+*{
+    background-color: rgb(131, 153, 156);
+}
+.main{
+    border: 2px  solid gray;
+    width: 20%;
+    margin: 210px;
+    padding-bottom: 25px;
+    background-color: maroon;
+}
+.h1{
+    background-color: maroon;
+    font-style: italic;
+    color: aqua;
+}
+.B1{
+color: darkorange;
+background-color: black;
+}
+.B2{
+    color: darkorange;
+    background-color: black;
+}
+.B3{
+    color: darkorange;
+    background-color: black;
+}
